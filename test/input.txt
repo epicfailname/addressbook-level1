@@ -40,6 +40,13 @@
   list
   add Charlie Dickson e/charlie.d@nus.edu.sg p/333333
   list
+  
+##########################################################
+# test sort persons command
+##########################################################
+
+  # should list persons in lexicographical order based on name
+  sort
 
 ##########################################################
 # test find persons command
